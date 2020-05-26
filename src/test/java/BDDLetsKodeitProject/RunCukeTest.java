@@ -9,6 +9,3 @@ import org.junit.runner.RunWith;
 @CucumberOptions(features = "src/test/Resources/Practicepage.feature")
 public class RunCukeTest {
 }
-
-// vipul
-
