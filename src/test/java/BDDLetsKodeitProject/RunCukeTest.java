@@ -10,6 +10,10 @@ import org.junit.runner.RunWith;
 public class RunCukeTest {
 }
 
+<<<<<<< HEAD
 //Vipul...
 
+=======
+//Vipul Bhesania...
+>>>>>>> 6ca55ebec5f06f9ba6ceec4b3d9e897bba9de2b8
 
