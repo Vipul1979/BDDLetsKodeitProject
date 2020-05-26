@@ -11,7 +11,4 @@ public class RunCukeTest {
 }
 
 //Vipul Bhesania
-//i am in vipul.BDDletskodeit.feature branch
-//pull request changes
-//assertion added
-//hi have made a change in to git dev branch please check latest code
+
